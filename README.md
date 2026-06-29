@@ -49,22 +49,22 @@ npm run publish-citations
 - [Laguna Tools names Justin Cormier as vice president of operations](https://xkyframe.com/news/laguna-tools-names-justin-cormier-as-vice-president-of-operations) — [`news/laguna-tools-names-justin-cormier-as-vice-president-of-operations.md`](./news/laguna-tools-names-justin-cormier-as-vice-president-of-operations.md)
 - [Mass Timber Office Tower in Tauranga secures New Zealand’s top property industry honour](https://xkyframe.com/news/mass-timber-office-tower-in-tauranga-secures-new-zealand-s-top-property-industry-honour) — [`news/mass-timber-office-tower-in-tauranga-secures-new-zealand-s-top-property-industry-honour.md`](./news/mass-timber-office-tower-in-tauranga-secures-new-zealand-s-top-property-industry-honour.md)
 - [MATEC 2026 closes first edition in Milan as Plast, Xylexpo and Composites Future unite to redefine woodworking, plastics and composite materials industry in Italy](https://xkyframe.com/news/matec-2026-closes-first-edition-in-milan-as-plast-xylexpo-and-composites-future-unite-to-redefine-wo) — [`news/matec-2026-closes-first-edition-in-milan-as-plast-xylexpo-and-composites-future-unite-to-redefine-wo.md`](./news/matec-2026-closes-first-edition-in-milan-as-plast-xylexpo-and-composites-future-unite-to-redefine-wo.md)
-- [New full-size CNC machines](https://xkyframe.com/news/new-full-size-cnc-machines) — [`news/new-full-size-cnc-machines.md`](./news/new-full-size-cnc-machines.md)
 - [Rethinking CNC: How to automate without buying new machinery](https://xkyframe.com/news/rethinking-cnc-how-to-automate-without-buying-new-machinery) — [`news/rethinking-cnc-how-to-automate-without-buying-new-machinery.md`](./news/rethinking-cnc-how-to-automate-without-buying-new-machinery.md)
 - [Robotic Solutions will demonstrate an automated finishing process at IWF](https://xkyframe.com/news/robotic-solutions-will-demonstrate-an-automated-finishing-process-at-iwf) — [`news/robotic-solutions-will-demonstrate-an-automated-finishing-process-at-iwf.md`](./news/robotic-solutions-will-demonstrate-an-automated-finishing-process-at-iwf.md)
+- [Saudi Wood Expo 2026 to unite 35,000+ construction and wood industry professionals in Riyadh](https://xkyframe.com/news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh) — [`news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh.md`](./news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh.md)
 - [SCM at Xylexpo 2026: Technology, software and digital services shaping the future of manufacturing](https://xkyframe.com/news/scm-at-xylexpo-2026-technology-software-and-digital-services-shaping-the-future-of-manufacturing) — [`news/scm-at-xylexpo-2026-technology-software-and-digital-services-shaping-the-future-of-manufacturing.md`](./news/scm-at-xylexpo-2026-technology-software-and-digital-services-shaping-the-future-of-manufacturing.md)
-- [Stirling Machinery to showcase advanced wood processing solutions at WoodTECH 2026 in Rotorua and Brisbane](https://xkyframe.com/news/stirling-machinery-to-showcase-advanced-wood-processing-solutions-at-woodtech-2026-in-rotorua-and-br) — [`news/stirling-machinery-to-showcase-advanced-wood-processing-solutions-at-woodtech-2026-in-rotorua-and-br.md`](./news/stirling-machinery-to-showcase-advanced-wood-processing-solutions-at-woodtech-2026-in-rotorua-and-br.md)
 - [Superpush 250 XL from Salvador debuts at Xylexpo 2026 with integrated cutting and drilling](https://xkyframe.com/news/superpush-250-xl-from-salvador-debuts-at-xylexpo-2026-with-integrated-cutting-and-drilling) — [`news/superpush-250-xl-from-salvador-debuts-at-xylexpo-2026-with-integrated-cutting-and-drilling.md`](./news/superpush-250-xl-from-salvador-debuts-at-xylexpo-2026-with-integrated-cutting-and-drilling.md)
 - [Take Advantage of Learning and Development Opportunities](https://xkyframe.com/news/take-advantage-of-learning-and-development-opportunities) — [`news/take-advantage-of-learning-and-development-opportunities.md`](./news/take-advantage-of-learning-and-development-opportunities.md)
 - [These 5 Trade Shows Are Where New Tools Make Their Debut - SlashGear](https://xkyframe.com/news/these-5-trade-shows-are-where-new-tools-make-their-debut-slashgear) — [`news/these-5-trade-shows-are-where-new-tools-make-their-debut-slashgear.md`](./news/these-5-trade-shows-are-where-new-tools-make-their-debut-slashgear.md)
 - [Trade commission to keep existing duties on Chinese wood mouldings and millwork](https://xkyframe.com/news/trade-commission-to-keep-existing-duties-on-chinese-wood-mouldings-and-millwork) — [`news/trade-commission-to-keep-existing-duties-on-chinese-wood-mouldings-and-millwork.md`](./news/trade-commission-to-keep-existing-duties-on-chinese-wood-mouldings-and-millwork.md)
+- [UK government to consult on stronger timber regulations to enhance due diligence and sustainable supply chains](https://xkyframe.com/news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup) — [`news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup.md`](./news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup.md)
 - [WoodTech 2026 set to showcase advanced manufacturing technologies for the furniture and woodworking industry](https://xkyframe.com/news/woodtech-2026-set-to-showcase-advanced-manufacturing-technologies-for-the-furniture-and-woodworking-) — [`news/woodtech-2026-set-to-showcase-advanced-manufacturing-technologies-for-the-furniture-and-woodworking-.md`](./news/woodtech-2026-set-to-showcase-advanced-manufacturing-technologies-for-the-furniture-and-woodworking-.md)
 
 ---
 
-## Weekly digests (0)
+## Weekly digests (1)
 
-- _(none yet)_
+- [Weekly industry digest](https://xkyframe.com/news) — [`weekly/weekly-digest-2026-06-29.md`](./weekly/weekly-digest-2026-06-29.md)
 
 ---
 
@@ -82,7 +82,7 @@ npm run publish-citations
 
 ## Sync metadata
 
-- **Last sync:** 2026-06-28T09:59:49.961Z
+- **Last sync:** 2026-06-29T12:08:14.551Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
