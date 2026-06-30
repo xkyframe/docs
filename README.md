@@ -62,9 +62,9 @@ npm run publish-citations
 
 ---
 
-## Weekly digests (1)
+## Weekly digests (0)
 
-- [Weekly industry digest](https://xkyframe.com/news) — [`weekly/weekly-digest-2026-06-29.md`](./weekly/weekly-digest-2026-06-29.md)
+- _(none yet)_
 
 ---
 
@@ -82,7 +82,7 @@ npm run publish-citations
 
 ## Sync metadata
 
-- **Last sync:** 2026-06-29T12:08:14.551Z
+- **Last sync:** 2026-06-30T10:33:19.413Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
