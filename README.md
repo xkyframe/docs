@@ -35,6 +35,7 @@ npm run publish-citations
 ## Selective industry news (25)
 
 - [Altendorf will celebrate milestone at IWF](https://xkyframe.com/news/altendorf-will-celebrate-milestone-at-iwf) — [`news/altendorf-will-celebrate-milestone-at-iwf.md`](./news/altendorf-will-celebrate-milestone-at-iwf.md)
+- [Balcony planters and raised beds: Compact outdoor woodworking opportunity for Europe’s urban homes](https://xkyframe.com/news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes) — [`news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes.md`](./news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes.md)
 - [Coplanar C-1000 Rometal: Slide into the Future](https://xkyframe.com/news/coplanar-c-1000-rometal-slide-into-the-future) — [`news/coplanar-c-1000-rometal-slide-into-the-future.md`](./news/coplanar-c-1000-rometal-slide-into-the-future.md)
 - [Designing the Built Environment Starts at IWF](https://xkyframe.com/news/designing-the-built-environment-starts-at-iwf) — [`news/designing-the-built-environment-starts-at-iwf.md`](./news/designing-the-built-environment-starts-at-iwf.md)
 - [Dubai WoodShow 2026 opens at Dubai World Trade Centre as global woodworking machinery and timber Industry accelerates innovation, sustainability and construction demand](https://xkyframe.com/news/dubai-woodshow-2026-opens-at-dubai-world-trade-centre-as-global-woodworking-machinery-and-timber-ind) — [`news/dubai-woodshow-2026-opens-at-dubai-world-trade-centre-as-global-woodworking-machinery-and-timber-ind.md`](./news/dubai-woodshow-2026-opens-at-dubai-world-trade-centre-as-global-woodworking-machinery-and-timber-ind.md)
@@ -46,7 +47,6 @@ npm run publish-citations
 - [Innovation Drives the Future of Fast Assembly](https://xkyframe.com/news/innovation-drives-the-future-of-fast-assembly) — [`news/innovation-drives-the-future-of-fast-assembly.md`](./news/innovation-drives-the-future-of-fast-assembly.md)
 - [IWF Announces 2026 Challengers Award Finalists](https://xkyframe.com/news/iwf-announces-2026-challengers-award-finalists) — [`news/iwf-announces-2026-challengers-award-finalists.md`](./news/iwf-announces-2026-challengers-award-finalists.md)
 - [Laguna Tools Appoints Justin Cormier as Vice President of Operations](https://xkyframe.com/news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations) — [`news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations.md`](./news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations.md)
-- [Laguna Tools names Justin Cormier as vice president of operations](https://xkyframe.com/news/laguna-tools-names-justin-cormier-as-vice-president-of-operations) — [`news/laguna-tools-names-justin-cormier-as-vice-president-of-operations.md`](./news/laguna-tools-names-justin-cormier-as-vice-president-of-operations.md)
 - [New Pressure-fed Spray Gun from SATA](https://xkyframe.com/news/new-pressure-fed-spray-gun-from-sata) — [`news/new-pressure-fed-spray-gun-from-sata.md`](./news/new-pressure-fed-spray-gun-from-sata.md)
 - [Northtech Machine Named Finalist for IWF 2026 Challengers Award](https://xkyframe.com/news/northtech-machine-named-finalist-for-iwf-2026-challengers-award) — [`news/northtech-machine-named-finalist-for-iwf-2026-challengers-award.md`](./news/northtech-machine-named-finalist-for-iwf-2026-challengers-award.md)
 - [Put new to work for you](https://xkyframe.com/news/put-new-to-work-for-you) — [`news/put-new-to-work-for-you.md`](./news/put-new-to-work-for-you.md)
@@ -82,7 +82,7 @@ npm run publish-citations
 
 ## Sync metadata
 
-- **Last sync:** 2026-07-04T09:25:56.291Z
+- **Last sync:** 2026-07-05T09:47:52.713Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
