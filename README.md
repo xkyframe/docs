@@ -34,6 +34,7 @@ npm run publish-citations
 
 ## Selective industry news (25)
 
+- [A sharper focus](https://xkyframe.com/news/a-sharper-focus) — [`news/a-sharper-focus.md`](./news/a-sharper-focus.md)
 - [Altendorf will celebrate milestone at IWF](https://xkyframe.com/news/altendorf-will-celebrate-milestone-at-iwf) — [`news/altendorf-will-celebrate-milestone-at-iwf.md`](./news/altendorf-will-celebrate-milestone-at-iwf.md)
 - [Balcony planters and raised beds: Compact outdoor woodworking opportunity for Europe’s urban homes](https://xkyframe.com/news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes) — [`news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes.md`](./news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes.md)
 - [Coplanar C-1000 Rometal: Slide into the Future](https://xkyframe.com/news/coplanar-c-1000-rometal-slide-into-the-future) — [`news/coplanar-c-1000-rometal-slide-into-the-future.md`](./news/coplanar-c-1000-rometal-slide-into-the-future.md)
@@ -42,7 +43,6 @@ npm run publish-citations
 - [EGGER carries a full range of matching edge banding](https://xkyframe.com/news/egger-carries-a-full-range-of-matching-edge-banding) — [`news/egger-carries-a-full-range-of-matching-edge-banding.md`](./news/egger-carries-a-full-range-of-matching-edge-banding.md)
 - [Forestry technology innovation drives global growth as INTERFORST Munich to showcase digitalisation, automation and smart machinery transformation](https://xkyframe.com/news/forestry-technology-innovation-drives-global-growth-as-interforst-munich-to-showcase-digitalisation-) — [`news/forestry-technology-innovation-drives-global-growth-as-interforst-munich-to-showcase-digitalisation-.md`](./news/forestry-technology-innovation-drives-global-growth-as-interforst-munich-to-showcase-digitalisation-.md)
 - [Formula Drill introduces the DRILLTEQ H-610 from HOMAG: A new era of high-speed 6-sided machining](https://xkyframe.com/news/formula-drill-introduces-the-drillteq-h-610-from-homag-a-new-era-of-high-speed-6-sided-machining) — [`news/formula-drill-introduces-the-drillteq-h-610-from-homag-a-new-era-of-high-speed-6-sided-machining.md`](./news/formula-drill-introduces-the-drillteq-h-610-from-homag-a-new-era-of-high-speed-6-sided-machining.md)
-- [FSC UK partners with Professional Woodworking Expo 2026 to strengthen industry collaboration and innovation](https://xkyframe.com/news/fsc-uk-partners-with-professional-woodworking-expo-2026-to-strengthen-industry-collaboration-and-inn) — [`news/fsc-uk-partners-with-professional-woodworking-expo-2026-to-strengthen-industry-collaboration-and-inn.md`](./news/fsc-uk-partners-with-professional-woodworking-expo-2026-to-strengthen-industry-collaboration-and-inn.md)
 - [Golden Eagle Provides Industrial-Grade Cutterhead Solutions](https://xkyframe.com/news/golden-eagle-provides-industrial-grade-cutterhead-solutions) — [`news/golden-eagle-provides-industrial-grade-cutterhead-solutions.md`](./news/golden-eagle-provides-industrial-grade-cutterhead-solutions.md)
 - [Innovation Drives the Future of Fast Assembly](https://xkyframe.com/news/innovation-drives-the-future-of-fast-assembly) — [`news/innovation-drives-the-future-of-fast-assembly.md`](./news/innovation-drives-the-future-of-fast-assembly.md)
 - [IWF Announces 2026 Challengers Award Finalists](https://xkyframe.com/news/iwf-announces-2026-challengers-award-finalists) — [`news/iwf-announces-2026-challengers-award-finalists.md`](./news/iwf-announces-2026-challengers-award-finalists.md)
@@ -62,9 +62,9 @@ npm run publish-citations
 
 ---
 
-## Weekly digests (0)
+## Weekly digests (1)
 
-- _(none yet)_
+- [Weekly industry digest](https://xkyframe.com/news) — [`weekly/weekly-digest-2026-07-06.md`](./weekly/weekly-digest-2026-07-06.md)
 
 ---
 
@@ -82,7 +82,7 @@ npm run publish-citations
 
 ## Sync metadata
 
-- **Last sync:** 2026-07-05T09:47:52.713Z
+- **Last sync:** 2026-07-06T11:36:47.900Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
