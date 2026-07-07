@@ -37,15 +37,14 @@ npm run publish-citations
 - [A sharper focus](https://xkyframe.com/news/a-sharper-focus) — [`news/a-sharper-focus.md`](./news/a-sharper-focus.md)
 - [Altendorf will celebrate milestone at IWF](https://xkyframe.com/news/altendorf-will-celebrate-milestone-at-iwf) — [`news/altendorf-will-celebrate-milestone-at-iwf.md`](./news/altendorf-will-celebrate-milestone-at-iwf.md)
 - [Balcony planters and raised beds: Compact outdoor woodworking opportunity for Europe’s urban homes](https://xkyframe.com/news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes) — [`news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes.md`](./news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes.md)
+- [BindEthics Ecohesive formaldehyde-free adhesive enters industrial scale-up for engineered wood manufacturers](https://xkyframe.com/news/bindethics-ecohesive-formaldehyde-free-adhesive-enters-industrial-scale-up-for-engineered-wood-manuf) — [`news/bindethics-ecohesive-formaldehyde-free-adhesive-enters-industrial-scale-up-for-engineered-wood-manuf.md`](./news/bindethics-ecohesive-formaldehyde-free-adhesive-enters-industrial-scale-up-for-engineered-wood-manuf.md)
 - [Coplanar C-1000 Rometal: Slide into the Future](https://xkyframe.com/news/coplanar-c-1000-rometal-slide-into-the-future) — [`news/coplanar-c-1000-rometal-slide-into-the-future.md`](./news/coplanar-c-1000-rometal-slide-into-the-future.md)
-- [Designing the Built Environment Starts at IWF](https://xkyframe.com/news/designing-the-built-environment-starts-at-iwf) — [`news/designing-the-built-environment-starts-at-iwf.md`](./news/designing-the-built-environment-starts-at-iwf.md)
 - [Dubai WoodShow 2026 opens at Dubai World Trade Centre as global woodworking machinery and timber Industry accelerates innovation, sustainability and construction demand](https://xkyframe.com/news/dubai-woodshow-2026-opens-at-dubai-world-trade-centre-as-global-woodworking-machinery-and-timber-ind) — [`news/dubai-woodshow-2026-opens-at-dubai-world-trade-centre-as-global-woodworking-machinery-and-timber-ind.md`](./news/dubai-woodshow-2026-opens-at-dubai-world-trade-centre-as-global-woodworking-machinery-and-timber-ind.md)
 - [EGGER carries a full range of matching edge banding](https://xkyframe.com/news/egger-carries-a-full-range-of-matching-edge-banding) — [`news/egger-carries-a-full-range-of-matching-edge-banding.md`](./news/egger-carries-a-full-range-of-matching-edge-banding.md)
 - [Forestry technology innovation drives global growth as INTERFORST Munich to showcase digitalisation, automation and smart machinery transformation](https://xkyframe.com/news/forestry-technology-innovation-drives-global-growth-as-interforst-munich-to-showcase-digitalisation-) — [`news/forestry-technology-innovation-drives-global-growth-as-interforst-munich-to-showcase-digitalisation-.md`](./news/forestry-technology-innovation-drives-global-growth-as-interforst-munich-to-showcase-digitalisation-.md)
 - [Formula Drill introduces the DRILLTEQ H-610 from HOMAG: A new era of high-speed 6-sided machining](https://xkyframe.com/news/formula-drill-introduces-the-drillteq-h-610-from-homag-a-new-era-of-high-speed-6-sided-machining) — [`news/formula-drill-introduces-the-drillteq-h-610-from-homag-a-new-era-of-high-speed-6-sided-machining.md`](./news/formula-drill-introduces-the-drillteq-h-610-from-homag-a-new-era-of-high-speed-6-sided-machining.md)
 - [Golden Eagle Provides Industrial-Grade Cutterhead Solutions](https://xkyframe.com/news/golden-eagle-provides-industrial-grade-cutterhead-solutions) — [`news/golden-eagle-provides-industrial-grade-cutterhead-solutions.md`](./news/golden-eagle-provides-industrial-grade-cutterhead-solutions.md)
 - [Innovation Drives the Future of Fast Assembly](https://xkyframe.com/news/innovation-drives-the-future-of-fast-assembly) — [`news/innovation-drives-the-future-of-fast-assembly.md`](./news/innovation-drives-the-future-of-fast-assembly.md)
-- [IWF Announces 2026 Challengers Award Finalists](https://xkyframe.com/news/iwf-announces-2026-challengers-award-finalists) — [`news/iwf-announces-2026-challengers-award-finalists.md`](./news/iwf-announces-2026-challengers-award-finalists.md)
 - [Laguna Tools Appoints Justin Cormier as Vice President of Operations](https://xkyframe.com/news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations) — [`news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations.md`](./news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations.md)
 - [New Pressure-fed Spray Gun from SATA](https://xkyframe.com/news/new-pressure-fed-spray-gun-from-sata) — [`news/new-pressure-fed-spray-gun-from-sata.md`](./news/new-pressure-fed-spray-gun-from-sata.md)
 - [Northtech Machine Named Finalist for IWF 2026 Challengers Award](https://xkyframe.com/news/northtech-machine-named-finalist-for-iwf-2026-challengers-award) — [`news/northtech-machine-named-finalist-for-iwf-2026-challengers-award.md`](./news/northtech-machine-named-finalist-for-iwf-2026-challengers-award.md)
@@ -56,15 +55,16 @@ npm run publish-citations
 - [Stiles to bring mass timber and off-site construction solutions to new IWF showcase](https://xkyframe.com/news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase) — [`news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase.md`](./news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase.md)
 - [Take Advantage of Learning and Development Opportunities](https://xkyframe.com/news/take-advantage-of-learning-and-development-opportunities) — [`news/take-advantage-of-learning-and-development-opportunities.md`](./news/take-advantage-of-learning-and-development-opportunities.md)
 - [Three New Variable-Speed Drill Presses from Grizzly](https://xkyframe.com/news/three-new-variable-speed-drill-presses-from-grizzly) — [`news/three-new-variable-speed-drill-presses-from-grizzly.md`](./news/three-new-variable-speed-drill-presses-from-grizzly.md)
+- [Top 15 Best Miter Saw Blade for Picture Framing Revealed! - mikesmowersspokane.com](https://xkyframe.com/news/top-15-best-miter-saw-blade-for-picture-framing-revealed-mikesmowersspokane-com) — [`news/top-15-best-miter-saw-blade-for-picture-framing-revealed-mikesmowersspokane-com.md`](./news/top-15-best-miter-saw-blade-for-picture-framing-revealed-mikesmowersspokane-com.md)
 - [UK government to consult on stronger timber regulations to enhance due diligence and sustainable supply chains](https://xkyframe.com/news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup) — [`news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup.md`](./news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup.md)
 - [WoodTech 2026 set to showcase advanced manufacturing technologies for the furniture and woodworking industry](https://xkyframe.com/news/woodtech-2026-set-to-showcase-advanced-manufacturing-technologies-for-the-furniture-and-woodworking-) — [`news/woodtech-2026-set-to-showcase-advanced-manufacturing-technologies-for-the-furniture-and-woodworking-.md`](./news/woodtech-2026-set-to-showcase-advanced-manufacturing-technologies-for-the-furniture-and-woodworking-.md)
 - [Xylino sets new standard for modular timber construction with Netherlands’ largest LVL residential development](https://xkyframe.com/news/xylino-sets-new-standard-for-modular-timber-construction-with-netherlands-largest-lvl-residential-de) — [`news/xylino-sets-new-standard-for-modular-timber-construction-with-netherlands-largest-lvl-residential-de.md`](./news/xylino-sets-new-standard-for-modular-timber-construction-with-netherlands-largest-lvl-residential-de.md)
 
 ---
 
-## Weekly digests (1)
+## Weekly digests (0)
 
-- [Weekly industry digest](https://xkyframe.com/news) — [`weekly/weekly-digest-2026-07-06.md`](./weekly/weekly-digest-2026-07-06.md)
+- _(none yet)_
 
 ---
 
@@ -82,7 +82,7 @@ npm run publish-citations
 
 ## Sync metadata
 
-- **Last sync:** 2026-07-06T11:36:47.900Z
+- **Last sync:** 2026-07-07T10:53:26.177Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
