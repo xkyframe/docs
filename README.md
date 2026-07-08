@@ -48,8 +48,8 @@ npm run publish-citations
 - [Laguna Tools Appoints Justin Cormier as Vice President of Operations](https://xkyframe.com/news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations) — [`news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations.md`](./news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations.md)
 - [New Pressure-fed Spray Gun from SATA](https://xkyframe.com/news/new-pressure-fed-spray-gun-from-sata) — [`news/new-pressure-fed-spray-gun-from-sata.md`](./news/new-pressure-fed-spray-gun-from-sata.md)
 - [Northtech Machine Named Finalist for IWF 2026 Challengers Award](https://xkyframe.com/news/northtech-machine-named-finalist-for-iwf-2026-challengers-award) — [`news/northtech-machine-named-finalist-for-iwf-2026-challengers-award.md`](./news/northtech-machine-named-finalist-for-iwf-2026-challengers-award.md)
+- [Prefinished panels come of age](https://xkyframe.com/news/prefinished-panels-come-of-age) — [`news/prefinished-panels-come-of-age.md`](./news/prefinished-panels-come-of-age.md)
 - [Put new to work for you](https://xkyframe.com/news/put-new-to-work-for-you) — [`news/put-new-to-work-for-you.md`](./news/put-new-to-work-for-you.md)
-- [Robotic Solutions will demonstrate an automated finishing process at IWF](https://xkyframe.com/news/robotic-solutions-will-demonstrate-an-automated-finishing-process-at-iwf) — [`news/robotic-solutions-will-demonstrate-an-automated-finishing-process-at-iwf.md`](./news/robotic-solutions-will-demonstrate-an-automated-finishing-process-at-iwf.md)
 - [Saudi Wood Expo 2026 to unite 35,000+ construction and wood industry professionals in Riyadh](https://xkyframe.com/news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh) — [`news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh.md`](./news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh.md)
 - [SCM at Xylexpo 2026: Technology, software and digital services shaping the future of manufacturing](https://xkyframe.com/news/scm-at-xylexpo-2026-technology-software-and-digital-services-shaping-the-future-of-manufacturing) — [`news/scm-at-xylexpo-2026-technology-software-and-digital-services-shaping-the-future-of-manufacturing.md`](./news/scm-at-xylexpo-2026-technology-software-and-digital-services-shaping-the-future-of-manufacturing.md)
 - [Stiles to bring mass timber and off-site construction solutions to new IWF showcase](https://xkyframe.com/news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase) — [`news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase.md`](./news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase.md)
@@ -82,7 +82,7 @@ npm run publish-citations
 
 ## Sync metadata
 
-- **Last sync:** 2026-07-07T10:53:26.177Z
+- **Last sync:** 2026-07-08T09:51:15.019Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
