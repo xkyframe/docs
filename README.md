@@ -1,6 +1,6 @@
-# XKY Frame — Technical Resource Index
+# XKY Frame — Technical Documentation
 
-Public resource index for [XKY Frame](https://xkyframe.com), a picture framing machinery manufacturer focused on cutting, joining, and production automation.
+Public mirror of technical docs, case studies, product datasheets, and **selective industry news** from the [XKY Frame](https://xkyframe.com) Citation Layer.
 
 **Canonical site:** [https://xkyframe.com](https://xkyframe.com)  
 **Docs Center:** [https://xkyframe.com/docs-center](https://xkyframe.com/docs-center)  
@@ -11,9 +11,9 @@ Public resource index for [XKY Frame](https://xkyframe.com), a picture framing m
 
 ## About this repository
 
-This repository deliberately contains an index, not mirrored article or datasheet text. Use the linked **xkyframe.com** pages for technical details, pricing discussions, distributor references, and SEO.
+Markdown files here are auto-synced from the main website repo. Each document links back to its **canonical page on xkyframe.com** — use those URLs for SEO, quotes, and distributor references.
 
-This keeps one authoritative public version of every product page, case study, and news article while preserving GitHub as a verifiable company and technical-resource profile.
+**News policy:** Only articles with `geoQualityScore ≥ 80` and/or an **XKY Frame Insight** section are mirrored here (not the full GEOFlow feed).
 
 To refresh locally (requires `XKYFRAME_GITHUB_TOKEN` in `.env.local`):
 
@@ -23,12 +23,48 @@ npm run publish-citations
 
 ---
 
-## Resource directory (4)
+## Technical docs & datasheets (4)
 
-- [CE & Safety Compliance for Framing Machinery (EU/US)](https://xkyframe.com/docs-center/ce-safety-compliance-framing-machinery) — doc; full details on xkyframe.com.
-- [Breaking the Canvas Stretcher Bar Throughput Ceiling](https://xkyframe.com/case-studies/canvas-stretcher-throughput-breakthrough) — case; full details on xkyframe.com.
-- [NC600 Continuous Automatic Cutting System — Product Datasheet](https://xkyframe.com/products/nc600-double-miter-saw-stack-cutter) — datasheet (NC600); full details on xkyframe.com.
-- [NN300 quad-corner underpinner demo](https://xkyframe.com/products/nn300-auto-quad-angle-underpinner) — video; full details on xkyframe.com.
+- [Breaking the Canvas Stretcher Bar Throughput Ceiling](https://xkyframe.com/case-studies/canvas-stretcher-throughput-breakthrough) — [`canvas-stretcher-throughput-breakthrough.md`](./canvas-stretcher-throughput-breakthrough.md) (case)
+- [CE & Safety Compliance for Framing Machinery (EU/US)](https://xkyframe.com/docs-center/ce-safety-compliance-framing-machinery) — [`ce-safety-compliance-framing-machinery.md`](./ce-safety-compliance-framing-machinery.md) (doc)
+- [NC600 Continuous Automatic Cutting System — Product Datasheet](https://xkyframe.com/products/nc600-double-miter-saw-stack-cutter) — [`nc600-double-miter-saw-stack-cutter.md`](./nc600-double-miter-saw-stack-cutter.md) (datasheet)
+- [NN300 quad-corner underpinner demo](https://xkyframe.com/products/nn300-auto-quad-angle-underpinner) — [`nn300-quad-corner-demo.md`](./nn300-quad-corner-demo.md) (video)
+
+---
+
+## Selective industry news (25)
+
+- [A sharper focus](https://xkyframe.com/news/a-sharper-focus) — [`news/a-sharper-focus.md`](./news/a-sharper-focus.md)
+- [Altendorf will celebrate milestone at IWF](https://xkyframe.com/news/altendorf-will-celebrate-milestone-at-iwf) — [`news/altendorf-will-celebrate-milestone-at-iwf.md`](./news/altendorf-will-celebrate-milestone-at-iwf.md)
+- [Balcony planters and raised beds: Compact outdoor woodworking opportunity for Europe’s urban homes](https://xkyframe.com/news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes) — [`news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes.md`](./news/balcony-planters-and-raised-beds-compact-outdoor-woodworking-opportunity-for-europe-s-urban-homes.md)
+- [BindEthics Ecohesive formaldehyde-free adhesive enters industrial scale-up for engineered wood manufacturers](https://xkyframe.com/news/bindethics-ecohesive-formaldehyde-free-adhesive-enters-industrial-scale-up-for-engineered-wood-manuf) — [`news/bindethics-ecohesive-formaldehyde-free-adhesive-enters-industrial-scale-up-for-engineered-wood-manuf.md`](./news/bindethics-ecohesive-formaldehyde-free-adhesive-enters-industrial-scale-up-for-engineered-wood-manuf.md)
+- [Coplanar C-1000 Rometal: Slide into the Future](https://xkyframe.com/news/coplanar-c-1000-rometal-slide-into-the-future) — [`news/coplanar-c-1000-rometal-slide-into-the-future.md`](./news/coplanar-c-1000-rometal-slide-into-the-future.md)
+- [Discover the Benefits of Insert Tooling from Vortex](https://xkyframe.com/news/discover-the-benefits-of-insert-tooling-from-vortex) — [`news/discover-the-benefits-of-insert-tooling-from-vortex.md`](./news/discover-the-benefits-of-insert-tooling-from-vortex.md)
+- [EGGER carries a full range of matching edge banding](https://xkyframe.com/news/egger-carries-a-full-range-of-matching-edge-banding) — [`news/egger-carries-a-full-range-of-matching-edge-banding.md`](./news/egger-carries-a-full-range-of-matching-edge-banding.md)
+- [Golden Eagle Provides Industrial-Grade Cutterhead Solutions](https://xkyframe.com/news/golden-eagle-provides-industrial-grade-cutterhead-solutions) — [`news/golden-eagle-provides-industrial-grade-cutterhead-solutions.md`](./news/golden-eagle-provides-industrial-grade-cutterhead-solutions.md)
+- [Innovation Drives the Future of Fast Assembly](https://xkyframe.com/news/innovation-drives-the-future-of-fast-assembly) — [`news/innovation-drives-the-future-of-fast-assembly.md`](./news/innovation-drives-the-future-of-fast-assembly.md)
+- [Laguna Tools Appoints Justin Cormier as Vice President of Operations](https://xkyframe.com/news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations) — [`news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations.md`](./news/laguna-tools-appoints-justin-cormier-as-vice-president-of-operations.md)
+- [New Automatic Edge Bander from Cantek America](https://xkyframe.com/news/new-automatic-edge-bander-from-cantek-america) — [`news/new-automatic-edge-bander-from-cantek-america.md`](./news/new-automatic-edge-bander-from-cantek-america.md)
+- [New Pressure-fed Spray Gun from SATA](https://xkyframe.com/news/new-pressure-fed-spray-gun-from-sata) — [`news/new-pressure-fed-spray-gun-from-sata.md`](./news/new-pressure-fed-spray-gun-from-sata.md)
+- [Northtech Machine Named Finalist for IWF 2026 Challengers Award](https://xkyframe.com/news/northtech-machine-named-finalist-for-iwf-2026-challengers-award) — [`news/northtech-machine-named-finalist-for-iwf-2026-challengers-award.md`](./news/northtech-machine-named-finalist-for-iwf-2026-challengers-award.md)
+- [Oneida Air Systems to Present Smart Boost Technology](https://xkyframe.com/news/oneida-air-systems-to-present-smart-boost-technology) — [`news/oneida-air-systems-to-present-smart-boost-technology.md`](./news/oneida-air-systems-to-present-smart-boost-technology.md)
+- [Prefinished panels come of age](https://xkyframe.com/news/prefinished-panels-come-of-age) — [`news/prefinished-panels-come-of-age.md`](./news/prefinished-panels-come-of-age.md)
+- [Put new to work for you](https://xkyframe.com/news/put-new-to-work-for-you) — [`news/put-new-to-work-for-you.md`](./news/put-new-to-work-for-you.md)
+- [Saudi Wood Expo 2026 to unite 35,000+ construction and wood industry professionals in Riyadh](https://xkyframe.com/news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh) — [`news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh.md`](./news/saudi-wood-expo-2026-to-unite-35-000-construction-and-wood-industry-professionals-in-riyadh.md)
+- [SCM at IWF: Advanced Technology, Automation and a Stronger North American Organization to Support Customer Growth](https://xkyframe.com/news/scm-at-iwf-advanced-technology-automation-and-a-stronger-north-american-organization-to-support-cust) — [`news/scm-at-iwf-advanced-technology-automation-and-a-stronger-north-american-organization-to-support-cust.md`](./news/scm-at-iwf-advanced-technology-automation-and-a-stronger-north-american-organization-to-support-cust.md)
+- [Stiles to bring mass timber and off-site construction solutions to new IWF showcase](https://xkyframe.com/news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase) — [`news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase.md`](./news/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase.md)
+- [Superfici America has Advanced Finishing Solutions](https://xkyframe.com/news/superfici-america-has-advanced-finishing-solutions) — [`news/superfici-america-has-advanced-finishing-solutions.md`](./news/superfici-america-has-advanced-finishing-solutions.md)
+- [Take Advantage of Learning and Development Opportunities](https://xkyframe.com/news/take-advantage-of-learning-and-development-opportunities) — [`news/take-advantage-of-learning-and-development-opportunities.md`](./news/take-advantage-of-learning-and-development-opportunities.md)
+- [Three New Variable-Speed Drill Presses from Grizzly](https://xkyframe.com/news/three-new-variable-speed-drill-presses-from-grizzly) — [`news/three-new-variable-speed-drill-presses-from-grizzly.md`](./news/three-new-variable-speed-drill-presses-from-grizzly.md)
+- [Top 15 Best Miter Saw Blade for Picture Framing Revealed! - mikesmowersspokane.com](https://xkyframe.com/news/top-15-best-miter-saw-blade-for-picture-framing-revealed-mikesmowersspokane-com) — [`news/top-15-best-miter-saw-blade-for-picture-framing-revealed-mikesmowersspokane-com.md`](./news/top-15-best-miter-saw-blade-for-picture-framing-revealed-mikesmowersspokane-com.md)
+- [UK government to consult on stronger timber regulations to enhance due diligence and sustainable supply chains](https://xkyframe.com/news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup) — [`news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup.md`](./news/uk-government-to-consult-on-stronger-timber-regulations-to-enhance-due-diligence-and-sustainable-sup.md)
+- [Xylino sets new standard for modular timber construction with Netherlands’ largest LVL residential development](https://xkyframe.com/news/xylino-sets-new-standard-for-modular-timber-construction-with-netherlands-largest-lvl-residential-de) — [`news/xylino-sets-new-standard-for-modular-timber-construction-with-netherlands-largest-lvl-residential-de.md`](./news/xylino-sets-new-standard-for-modular-timber-construction-with-netherlands-largest-lvl-residential-de.md)
+
+---
+
+## Weekly digests (0)
+
+- _(none yet)_
 
 ---
 
@@ -40,13 +76,13 @@ npm run publish-citations
 | **Installation** | NN300 / NC600 commissioning, HMI setup |
 | **Product datasheets** | NC600, NN300, CT series specifications |
 | **Case studies** | Throughput, automation, canvas stretcher lines |
-| **Industry news** | Current updates and commentary on xkyframe.com/news |
+| **Industry news** | Curated framing industry updates with XKY insight |
 
 ---
 
 ## Sync metadata
 
-- **Last sync:** 2026-07-10T13:43:09.013Z
+- **Last sync:** 2026-07-11T10:17:23.128Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
