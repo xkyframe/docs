@@ -25,10 +25,10 @@ npm run publish-citations
 
 ## Resource directory (4)
 
-- [CE & Safety Compliance for Framing Machinery (EU/US)](https://xkyframe.com/docs-center/ce-safety-compliance-framing-machinery) — doc; full details on xkyframe.com.
-- [Breaking the Canvas Stretcher Bar Throughput Ceiling](https://xkyframe.com/case-studies/canvas-stretcher-throughput-breakthrough) — case; full details on xkyframe.com.
-- [NC600 Continuous Automatic Cutting System — Product Datasheet](https://xkyframe.com/products/nc600-double-miter-saw-stack-cutter) — datasheet (NC600); full details on xkyframe.com.
-- [NN300 quad-corner underpinner demo](https://xkyframe.com/products/nn300-auto-quad-angle-underpinner) — video; full details on xkyframe.com.
+- [CE & Safety Compliance for Framing Machinery (EU/US)](https://xkyframe.com/docs-center/ce-safety-compliance-framing-machinery?utm_source=github&utm_medium=referral&utm_campaign=citation_layer&utm_content=ce-safety-compliance-framing-machinery) — doc; full details on xkyframe.com.
+- [Breaking the Canvas Stretcher Bar Throughput Ceiling](https://xkyframe.com/case-studies/canvas-stretcher-throughput-breakthrough?utm_source=github&utm_medium=referral&utm_campaign=citation_layer&utm_content=canvas-stretcher-throughput-breakthrough) — case; full details on xkyframe.com.
+- [NC600 Continuous Automatic Cutting System — Product Datasheet](https://xkyframe.com/products/nc600-double-miter-saw-stack-cutter?utm_source=github&utm_medium=referral&utm_campaign=citation_layer&utm_content=nc600-double-miter-saw-stack-cutter) — datasheet (NC600); full details on xkyframe.com.
+- [NN300 quad-corner underpinner demo](https://xkyframe.com/products/nn300-auto-quad-angle-underpinner?utm_source=github&utm_medium=referral&utm_campaign=citation_layer&utm_content=nn300-quad-corner-demo) — video; full details on xkyframe.com.
 
 ---
 
@@ -46,7 +46,7 @@ npm run publish-citations
 
 ## Sync metadata
 
-- **Last sync:** 2026-07-12T09:24:06.256Z
+- **Last sync:** 2026-07-12T15:31:28.945Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
