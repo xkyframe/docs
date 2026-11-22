@@ -46,7 +46,7 @@ npm run publish-citations
 
 ## Sync metadata
 
-- **Last sync:** 2026-11-21T08:05:15.872Z
+- **Last sync:** 2026-11-22T07:52:25.439Z
 - **Source:** [xkyframe.com/review](https://xkyframe.com/review)
 - **Profile:** [github.com/xkyframe](https://github.com/xkyframe)
 
